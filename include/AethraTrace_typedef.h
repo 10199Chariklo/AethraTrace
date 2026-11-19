@@ -1,0 +1,8 @@
+/* _CK_ */
+
+#ifndef AETHRA_TRACE_TYPEDEF_H
+#define AETHRA_TRACE_TYPEDEF_H
+
+
+
+#endif // AETHRA_TRACE_TYPEDEF_H
